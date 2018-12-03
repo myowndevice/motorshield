@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/hp/kicad/hmost/hmost2/hmost.sch</source>
+    <date>Ср 07 ноя 2018 11:44:10</date>
+    <tool>Eeschema 5.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>hmost.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="Q23">
+      <value>2n7002</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584C1880</tstamp>
+    </comp>
+    <comp ref="Q13">
+      <value>2n7002</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584C17E1</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>200</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584C0569</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>200</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584BF188</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584BE115</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584BDD0D</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584BDC4F</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584BD8F5</tstamp>
+    </comp>
+    <comp ref="Q15">
+      <value>IRLML6402TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="BSS83P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584BD24D</tstamp>
+    </comp>
+    <comp ref="Q20">
+      <value>IRLML6244TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584BD0AD</tstamp>
+    </comp>
+    <comp ref="Q19">
+      <value>IRLML6402TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="BSS83P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584BC617</tstamp>
+    </comp>
+    <comp ref="Q16">
+      <value>IRLML6244TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584BC5EA</tstamp>
+    </comp>
+    <comp ref="Q11">
+      <value>2n7002</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D14BF</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>200</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D14DA</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>200</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D14E1</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D14F2</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D14F8</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D14FE</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D1504</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>IRLML6402TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="BSS83P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D1512</tstamp>
+    </comp>
+    <comp ref="Q8">
+      <value>IRLML6244TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D1518</tstamp>
+    </comp>
+    <comp ref="Q7">
+      <value>IRLML6402TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="BSS83P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D151E</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>IRLML6244TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D1524</tstamp>
+    </comp>
+    <comp ref="Q12">
+      <value>2n7002</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D8D9D</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>2n7002</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D8DA4</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>200</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D8DB8</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>200</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D8DBF</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D8DD0</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D8DD6</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D8DDC</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D8DE2</tstamp>
+    </comp>
+    <comp ref="Q5">
+      <value>IRLML6402TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="BSS83P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D8DF0</tstamp>
+    </comp>
+    <comp ref="Q10">
+      <value>IRLML6244TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="Q_NPN_BEC" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D8DF6</tstamp>
+    </comp>
+    <comp ref="Q9">
+      <value>IRLML6402TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="BSS83P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D8DFC</tstamp>
+    </comp>
+    <comp ref="Q6">
+      <value>IRLML6244TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="Q_NPN_BEC" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D8E02</tstamp>
+    </comp>
+    <comp ref="Q24">
+      <value>2n7002</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584DEFED</tstamp>
+    </comp>
+    <comp ref="Q14">
+      <value>2n7002</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584DEFF4</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>200</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584DF008</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>200</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584DF00F</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584DF020</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584DF026</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584DF02C</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>100</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584DF032</tstamp>
+    </comp>
+    <comp ref="Q17">
+      <value>IRLML6402TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="BSS83P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584DF040</tstamp>
+    </comp>
+    <comp ref="Q22">
+      <value>IRLML6244TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584DF046</tstamp>
+    </comp>
+    <comp ref="Q21">
+      <value>IRLML6402TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="BSS83P" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584DF04C</tstamp>
+    </comp>
+    <comp ref="Q18">
+      <value>IRLML6244TRPbF</value>
+      <footprint>myowndevice:SOT-23_mod</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584DF052</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="C_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5855D6E1</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58563003</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585668D7</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58567D57</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5856E7A9</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58573CDC</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>585756DB</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5857732B</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5857936E</tstamp>
+    </comp>
+    <comp ref="P5">
+      <value>CONN_01X02</value>
+      <footprint>Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="hmost-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5858AC92</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_01X02</value>
+      <footprint>Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="hmost-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5859827C</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_01X02</value>
+      <footprint>Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="hmost-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58599014</tstamp>
+    </comp>
+    <comp ref="P6">
+      <value>CONN_01X02</value>
+      <footprint>Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="hmost-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5859C528</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="C_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587F5DDC</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58593327</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="C_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587F91F4</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>10u 25V</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="C_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>587F92F1</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>STM8S005K6T6C</value>
+      <footprint>myowndevice:LQFP-32_05</footprint>
+      <libsource lib="hmost-rescue" part="STM8S003K3T" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59F733DA</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>1uf</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="hmost-rescue" part="C_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59F739FB</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>NCV1117ST50T3G</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-223</footprint>
+      <libsource lib="hmost-rescue" part="AP1117-50" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A5D9CD8</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100uf 20v tant</value>
+      <footprint>Capacitors_Tantalum_SMD:CP_Tantalum_Case-D_EIA-7343-31_Hand</footprint>
+      <libsource lib="hmost-rescue" part="CP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A5DB508</tstamp>
+    </comp>
+    <comp ref="P8">
+      <value>VIN</value>
+      <footprint>Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="hmost-rescue" part="CONN_01X02" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A5F0CD7</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x06</value>
+      <footprint>Pin_Headers:Pin_Header_Angled_1x07_Pitch2.54mm</footprint>
+      <libsource lib="hmost-rescue" part="Conn_01x07" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A5F2F4D</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>net</value>
+      <footprint>myowndevice:smd_joint</footprint>
+      <libsource lib="hmost-rescue" part="R_Small" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A9D7F15</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>2n7002</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="hmost-rescue" part="2N7002" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>584D14C6</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="hmost-rescue" part="2N7002">
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7002</field>
+        <field name="Footprint">TO_SOT_Packages_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hmost-rescue" part="AP1117-50">
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP1117-50</field>
+        <field name="Footprint">TO_SOT_Packages_SMD:SOT-223-3Lead_TabPin2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="passive"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="hmost-rescue" part="BSS83P">
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BSS83P</field>
+        <field name="Footprint">TO_SOT_Packages_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hmost-rescue" part="CONN_01X02">
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hmost-rescue" part="CP">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hmost-rescue" part="C_Small">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hmost-rescue" part="Conn_01x07">
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hmost-rescue" part="Q_NPN_BEC">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BEC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hmost-rescue" part="R_Small">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hmost-rescue" part="STM8S003K3T">
+      <footprints>
+        <fp>LQFP32*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM8S003K3T</field>
+        <field name="Footprint">LQFP-32</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NRST" type="input"/>
+        <pin num="2" name="OSCI/PA1" type="BiDi"/>
+        <pin num="3" name="OSCOUT/PA2" type="BiDi"/>
+        <pin num="4" name="VSS" type="power_in"/>
+        <pin num="5" name="Vcap" type="input"/>
+        <pin num="6" name="VDD" type="power_in"/>
+        <pin num="7" name="[SPI_NSS]TIM2_CH3/PA3" type="BiDi"/>
+        <pin num="8" name="PF4" type="BiDi"/>
+        <pin num="9" name="PB7" type="BiDi"/>
+        <pin num="10" name="PB6" type="BiDi"/>
+        <pin num="11" name="I2C_SDA/PB5" type="BiDi"/>
+        <pin num="12" name="I2C_SCL/PB4" type="BiDi"/>
+        <pin num="13" name="TIM1_ETR/AIN3/PB3" type="BiDi"/>
+        <pin num="14" name="TIM1_CH3N/AIN2/PB2" type="BiDi"/>
+        <pin num="15" name="TIM1_CH2N/AIN1/PB1" type="BiDi"/>
+        <pin num="16" name="TIM1_CH1N/AIN0/PB0" type="BiDi"/>
+        <pin num="17" name="PE5/SPI_NSS" type="BiDi"/>
+        <pin num="18" name="UART1_CK/TIM1_CH1/PC1" type="BiDi"/>
+        <pin num="19" name="TIM1_CH2/PC2" type="BiDi"/>
+        <pin num="20" name="TIM1_CH3/PC3" type="BiDi"/>
+        <pin num="21" name="CLK_CCO/TIM1_CH4/PC4" type="BiDi"/>
+        <pin num="22" name="SPI_SCK/PC5" type="BiDi"/>
+        <pin num="23" name="PI_MOSI/PC6" type="BiDi"/>
+        <pin num="24" name="PI_MISO/PC7" type="BiDi"/>
+        <pin num="25" name="PD0/TIM1_BKIN[CLK_CCO]" type="BiDi"/>
+        <pin num="26" name="PD1/SWIM" type="BiDi"/>
+        <pin num="27" name="PD2[TIM2_CH3]" type="BiDi"/>
+        <pin num="28" name="PD3/ADC_ETR/TIM2_CH2" type="BiDi"/>
+        <pin num="29" name="PD4/BEEP/TIM2_CH1" type="BiDi"/>
+        <pin num="30" name="PD5/UART1_TX" type="BiDi"/>
+        <pin num="31" name="PD6/UART1_RX" type="BiDi"/>
+        <pin num="32" name="PD7/TLI[TIM1_CH4]" type="BiDi"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="hmost-rescue">
+      <uri>/home/hp/kicad/hmost/hmost2/hmost-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(Q5-Pad1)">
+      <node ref="R4" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="Q5" pin="1"/>
+    </net>
+    <net code="2" name="Net-(Q12-Pad3)">
+      <node ref="Q12" pin="3"/>
+      <node ref="R15" pin="2"/>
+    </net>
+    <net code="3" name="Net-(Q9-Pad1)">
+      <node ref="R15" pin="1"/>
+      <node ref="R18" pin="1"/>
+      <node ref="Q9" pin="1"/>
+    </net>
+    <net code="4" name="Net-(Q17-Pad1)">
+      <node ref="Q17" pin="1"/>
+      <node ref="R25" pin="2"/>
+      <node ref="R27" pin="2"/>
+    </net>
+    <net code="5" name="Net-(Q2-Pad3)">
+      <node ref="R6" pin="1"/>
+      <node ref="Q2" pin="3"/>
+    </net>
+    <net code="6" name="Net-(Q20-Pad1)">
+      <node ref="R34" pin="1"/>
+      <node ref="Q20" pin="1"/>
+      <node ref="R39" pin="1"/>
+    </net>
+    <net code="7" name="Net-(Q23-Pad3)">
+      <node ref="Q23" pin="3"/>
+      <node ref="R33" pin="2"/>
+    </net>
+    <net code="8" name="Net-(Q19-Pad1)">
+      <node ref="Q19" pin="1"/>
+      <node ref="R33" pin="1"/>
+      <node ref="R37" pin="1"/>
+    </net>
+    <net code="9" name="Net-(Q24-Pad3)">
+      <node ref="R35" pin="2"/>
+      <node ref="Q24" pin="3"/>
+    </net>
+    <net code="10" name="Net-(Q21-Pad1)">
+      <node ref="R38" pin="1"/>
+      <node ref="R35" pin="1"/>
+      <node ref="Q21" pin="1"/>
+    </net>
+    <net code="11" name="Net-(Q14-Pad3)">
+      <node ref="R27" pin="1"/>
+      <node ref="Q14" pin="3"/>
+    </net>
+    <net code="12" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="13" name="/M1_NR">
+      <node ref="R34" pin="2"/>
+      <node ref="U1" pin="27"/>
+    </net>
+    <net code="14" name="/M4_NL">
+      <node ref="U1" pin="28"/>
+      <node ref="R29" pin="1"/>
+    </net>
+    <net code="15" name="/M4_NR">
+      <node ref="U1" pin="29"/>
+      <node ref="R36" pin="2"/>
+    </net>
+    <net code="16" name="/M2_NL">
+      <node ref="U1" pin="21"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="17" name="/utx">
+      <node ref="J1" pin="6"/>
+      <node ref="U1" pin="30"/>
+    </net>
+    <net code="18" name="Net-(U1-Pad32)">
+      <node ref="U1" pin="32"/>
+    </net>
+    <net code="19" name="Net-(C1-Pad1)">
+      <node ref="U1" pin="5"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="20" name="Net-(U1-Pad8)">
+      <node ref="U1" pin="8"/>
+    </net>
+    <net code="21" name="/M2_HR">
+      <node ref="U1" pin="14"/>
+      <node ref="Q11" pin="1"/>
+    </net>
+    <net code="22" name="/i2c_sda">
+      <node ref="U1" pin="11"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="23" name="/i2c_scl">
+      <node ref="J1" pin="2"/>
+      <node ref="U1" pin="12"/>
+    </net>
+    <net code="24" name="/M2_HL">
+      <node ref="Q1" pin="1"/>
+      <node ref="U1" pin="13"/>
+    </net>
+    <net code="25" name="/M3_HL">
+      <node ref="U1" pin="15"/>
+      <node ref="Q2" pin="1"/>
+    </net>
+    <net code="26" name="/M3_HR">
+      <node ref="U1" pin="16"/>
+      <node ref="Q12" pin="1"/>
+    </net>
+    <net code="27" name="/M1_HL">
+      <node ref="Q13" pin="1"/>
+      <node ref="U1" pin="17"/>
+    </net>
+    <net code="28" name="/M1_HR">
+      <node ref="U1" pin="18"/>
+      <node ref="Q23" pin="1"/>
+    </net>
+    <net code="29" name="/M4_HL">
+      <node ref="Q14" pin="1"/>
+      <node ref="U1" pin="19"/>
+    </net>
+    <net code="30" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="31" name="/M4_HR">
+      <node ref="U1" pin="20"/>
+      <node ref="Q24" pin="1"/>
+    </net>
+    <net code="32" name="Net-(R21-Pad2)">
+      <node ref="U1" pin="1"/>
+      <node ref="R21" pin="2"/>
+    </net>
+    <net code="33" name="Net-(Q16-Pad1)">
+      <node ref="R30" pin="1"/>
+      <node ref="R28" pin="2"/>
+      <node ref="Q16" pin="1"/>
+    </net>
+    <net code="34" name="Net-(Q18-Pad1)">
+      <node ref="R31" pin="1"/>
+      <node ref="Q18" pin="1"/>
+      <node ref="R29" pin="2"/>
+    </net>
+    <net code="35" name="Net-(Q3-Pad1)">
+      <node ref="R5" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="Q3" pin="1"/>
+    </net>
+    <net code="36" name="Net-(Q1-Pad3)">
+      <node ref="R5" pin="1"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="37" name="Net-(Q15-Pad1)">
+      <node ref="R26" pin="2"/>
+      <node ref="R24" pin="2"/>
+      <node ref="Q15" pin="1"/>
+    </net>
+    <net code="38" name="Net-(Q13-Pad3)">
+      <node ref="Q13" pin="3"/>
+      <node ref="R26" pin="1"/>
+    </net>
+    <net code="39" name="/vmot">
+      <node ref="C5" pin="1"/>
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="40" name="Net-(Q10-Pad1)">
+      <node ref="R16" pin="1"/>
+      <node ref="Q10" pin="1"/>
+      <node ref="R12" pin="1"/>
+    </net>
+    <net code="41" name="/vdd">
+      <node ref="C2" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="R21" pin="1"/>
+      <node ref="U1" pin="6"/>
+      <node ref="U1" pin="7"/>
+      <node ref="J1" pin="4"/>
+      <node ref="U2" pin="2"/>
+      <node ref="U1" pin="9"/>
+      <node ref="C6" pin="1"/>
+    </net>
+    <net code="42" name="Net-(P1-Pad2)">
+      <node ref="Q4" pin="3"/>
+      <node ref="Q3" pin="3"/>
+      <node ref="P1" pin="2"/>
+    </net>
+    <net code="43" name="Net-(P1-Pad1)">
+      <node ref="Q7" pin="3"/>
+      <node ref="P1" pin="1"/>
+      <node ref="Q8" pin="3"/>
+    </net>
+    <net code="44" name="Net-(P2-Pad2)">
+      <node ref="Q5" pin="3"/>
+      <node ref="P2" pin="2"/>
+      <node ref="Q6" pin="3"/>
+    </net>
+    <net code="45" name="Net-(P2-Pad1)">
+      <node ref="Q9" pin="3"/>
+      <node ref="Q10" pin="3"/>
+      <node ref="P2" pin="1"/>
+    </net>
+    <net code="46" name="Net-(P6-Pad2)">
+      <node ref="Q17" pin="3"/>
+      <node ref="Q18" pin="3"/>
+      <node ref="P6" pin="2"/>
+    </net>
+    <net code="47" name="Net-(P6-Pad1)">
+      <node ref="P6" pin="1"/>
+      <node ref="Q21" pin="3"/>
+      <node ref="Q22" pin="3"/>
+    </net>
+    <net code="48" name="Net-(Q11-Pad3)">
+      <node ref="Q11" pin="3"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="49" name="GNDD">
+      <node ref="C5" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U1" pin="4"/>
+      <node ref="U2" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="U1" pin="10"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="50" name="Net-(Q7-Pad1)">
+      <node ref="R13" pin="2"/>
+      <node ref="Q7" pin="1"/>
+      <node ref="R17" pin="2"/>
+    </net>
+    <net code="51" name="Net-(P5-Pad2)">
+      <node ref="P5" pin="2"/>
+      <node ref="Q15" pin="3"/>
+      <node ref="Q16" pin="3"/>
+    </net>
+    <net code="52" name="Net-(P5-Pad1)">
+      <node ref="Q19" pin="3"/>
+      <node ref="P5" pin="1"/>
+      <node ref="Q20" pin="3"/>
+    </net>
+    <net code="53" name="/VMOT">
+      <node ref="R3" pin="1"/>
+      <node ref="Q9" pin="2"/>
+      <node ref="Q15" pin="2"/>
+      <node ref="Q19" pin="2"/>
+      <node ref="Q3" pin="2"/>
+      <node ref="Q7" pin="2"/>
+      <node ref="R17" pin="1"/>
+      <node ref="R38" pin="2"/>
+      <node ref="R4" pin="1"/>
+      <node ref="R18" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="Q5" pin="2"/>
+      <node ref="Q21" pin="2"/>
+      <node ref="Q17" pin="2"/>
+      <node ref="P8" pin="2"/>
+      <node ref="R37" pin="2"/>
+      <node ref="R25" pin="1"/>
+      <node ref="R24" pin="1"/>
+    </net>
+    <net code="54" name="GND">
+      <node ref="P8" pin="1"/>
+      <node ref="Q4" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="Q18" pin="2"/>
+      <node ref="R10" pin="2"/>
+      <node ref="Q10" pin="2"/>
+      <node ref="Q14" pin="2"/>
+      <node ref="Q24" pin="2"/>
+      <node ref="Q22" pin="2"/>
+      <node ref="R30" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="Q6" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="Q23" pin="2"/>
+      <node ref="Q13" pin="2"/>
+      <node ref="Q11" pin="2"/>
+      <node ref="Q8" pin="2"/>
+      <node ref="Q12" pin="2"/>
+      <node ref="Q2" pin="2"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="R11" pin="2"/>
+      <node ref="R12" pin="2"/>
+      <node ref="R39" pin="2"/>
+      <node ref="Q16" pin="2"/>
+      <node ref="Q20" pin="2"/>
+      <node ref="R32" pin="2"/>
+      <node ref="R31" pin="2"/>
+    </net>
+    <net code="55" name="/prg">
+      <node ref="U1" pin="26"/>
+      <node ref="J1" pin="7"/>
+    </net>
+    <net code="56" name="/urx">
+      <node ref="J1" pin="5"/>
+      <node ref="U1" pin="31"/>
+    </net>
+    <net code="57" name="Net-(Q8-Pad1)">
+      <node ref="Q8" pin="1"/>
+      <node ref="R14" pin="1"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="58" name="Net-(Q4-Pad1)">
+      <node ref="R7" pin="2"/>
+      <node ref="Q4" pin="1"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="59" name="Net-(Q6-Pad1)">
+      <node ref="R8" pin="2"/>
+      <node ref="R10" pin="1"/>
+      <node ref="Q6" pin="1"/>
+    </net>
+    <net code="60" name="/M3_NL">
+      <node ref="U1" pin="23"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="61" name="/M3_NR">
+      <node ref="U1" pin="24"/>
+      <node ref="R16" pin="2"/>
+    </net>
+    <net code="62" name="/M1_NL">
+      <node ref="U1" pin="25"/>
+      <node ref="R28" pin="1"/>
+    </net>
+    <net code="63" name="/M2_NR">
+      <node ref="R14" pin="2"/>
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="64" name="Net-(Q22-Pad1)">
+      <node ref="R36" pin="1"/>
+      <node ref="R32" pin="1"/>
+      <node ref="Q22" pin="1"/>
+    </net>
+  </nets>
+</export>

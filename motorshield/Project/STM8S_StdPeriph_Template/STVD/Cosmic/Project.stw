@@ -1,0 +1,24 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=stm8s003.stp
+Dependencies=
+
+[Project1]
+Filename=stm8s005.stp
+Dependencies=
+
+[Project2]
+Filename=stm8s105.stp
+Dependencies=
+
+[Project3]
+Filename=stm8s903.stp
+Dependencies=
+[Options]
+ActiveProject=stm8s003
+ActiveConfig=Debug
+AddSortedElements=1
